@@ -11,7 +11,7 @@ This Fusion 360 plugin prompts you for basic information about the spur gear you
 
 1. Place the Generate_Gear folder into your Fusion 360 Scripts folder. Something like C:\Users\MyName\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\Scripts
 2. You may need to restart Fusion 360 when using this script for the first time.
-3. To use the script, you should be in Design mode. Along the top, head to UTILITIES, -> ADD-INS -> Scripts and Add-Ins (or Shift + S) -> Scripts -> Generate_Gear -> Run
+3. To use the script, you should be in Design mode. Along the top, head to UTILITIES -> ADD-INS -> Scripts and Add-Ins (or Shift + S) -> Scripts -> Generate_Gear -> Run
 4. Enter the Pitch Circle Diameter when prompted. For example, a 24Z m1 gear will have a pitch circle diamter of 24mm.
 5. Enter the module.
 6. You'll now see a sketch that looks like 4 concentric circles, 3 lines along the addendum circle, and a curve, centered around the origin. Head back to the SOLID tab.
