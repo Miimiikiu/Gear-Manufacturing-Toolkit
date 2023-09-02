@@ -42,13 +42,21 @@ This script generates G Code that cuts gears on a CNC router using a gear cuttin
 #### Usage
 
 Assumptions:
+
 -You're using a standard CNC router with an adapter that allows for gear cutting, such that the gear cutter face is parallel to the XY plane.
+
 -You're using a 4th axis that rotates parallel to the Y axis and it above the router's table.
+
 -Your stock is cylindrical and running parallel to the Y axis, clamped firmly into the 4th axis chuch with low runout.
+
 -Your stock is on the right side of your router and there's enough room for your safe_x to be on the left side of your stock and allows enough room for your stock to safely rotate.
+
 -Your WCS X=0 is lightly touching the left side of the stock, your WCS Y=0 is closer to Machine Y=0, and your WCS Z=0 is in the center of your stock.
+
 -Your specified cutting length is small enough such that it does not collide with your chuck or tailstock during leadin/out moves.
+
 -You know what you're doing.
+
 -You understand that use of this script and its resulting files is at your own risk.
 
 1. Edit the user values according to your requirements, then run the file to generate the G Code file.
