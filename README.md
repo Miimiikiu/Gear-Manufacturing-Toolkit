@@ -22,7 +22,7 @@ This Fusion 360 plugin prompts you for basic information about the spur gear you
 11. Select everything created here, MODIFY -> Combine then select Join for operation and optionally New Component. Hit OK.
 12. Gear created successfully! Look at all that time you saved.
 
-[Usage Video](./Generate_Gear_Usage.gif)
+https://github.com/Miimiikiu/Gear-Manufacturing-Toolkit/assets/128089127/f025ab9f-6375-4f9c-a372-c13689137fad
 
 ### Router Adapter
 
