@@ -22,6 +22,8 @@ This Fusion 360 plugin prompts you for basic information about the spur gear you
 11. Select everything created here, MODIFY -> Combine then select Join for operation and optionally New Component. Hit OK.
 12. Gear created successfully! Look at all that time you saved.
 
+<video src='./Generate_Gear_Usage.mp4' width=300/>
+
 ### Router Adapter
 
 This is a physical attachment to a standard CNC router, which can hold a gear cutting tool with an inner diameter of 22mm. 
